@@ -1,4 +1,4 @@
-This is Java Full stack project on AWS
+Java Full stack project on AWS
 
 ## Backend- Java Springboot
 ## Frontend - React
