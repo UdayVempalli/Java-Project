@@ -1,6 +1,6 @@
 Java Full stack project on AWS
 
-# Ecommerce
+# E-commerce
 
 ## Backend- Java Springboot
 ## Frontend - React
